@@ -1,7 +1,7 @@
 ###  Hello 👋 
-<div align="center">
-<img src="https://BarasaJnr.github.io/static/images/greetings.gif" align="center" height="" width="600" />
-</div>  
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
+</div>
 # 💫 About Me:
 
 <b>Welcome !! </b><br/>
