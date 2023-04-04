@@ -1,9 +1,8 @@
 ###  Hello 👋 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600"/>
 </div>
 # 💫 About Me:
-
 <b>Welcome !! </b><br/>
 - 🔭 I’m currently working on Software engineering.
 - 🌱 I’m currently learning Software Engineering @alx_africa
