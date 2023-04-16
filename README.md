@@ -30,8 +30,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BarasaJnr}/count.svg" /></p> 
 <br>
 </div>
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <!--Graph-->
 ![BarasaJnr github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BarasaJnr&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
@@ -43,7 +41,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br></br>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BarasaJnr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
