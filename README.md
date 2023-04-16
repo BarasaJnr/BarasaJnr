@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <!--Graph-->
 ![BarasaJnr github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BarasaJnr&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
  <!--Sneek Gusano-->
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/BarasaJnr/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <!--  -->
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
