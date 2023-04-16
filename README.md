@@ -1,7 +1,4 @@
 ###  Hello 👋 
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="1200"/>
-</div>
 # 💫 About Me:
 <b>Welcome !! </b><br/>
 - 🔭 I’m currently working on Software engineering.
