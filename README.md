@@ -1,4 +1,5 @@
-###  Hello 👋 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Nairobi,+254;I'm+a+Software+Engineer;I'm+Currently+studying+@alx_africa;Welcome!)
+
 # 💫 About Me:
 <b>Welcome !! </b><br/>
 - 🔭 I’m currently working on Software engineering.
