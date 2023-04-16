@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Nairobi,+254;I'm+a+Software+Engineer;I'm+Currently+studying+@alx_africa;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Nairobi,Kenya;I'm+a+Software+Engineer;I'm+Currently+studying+@alx_africa;Welcome!)
 
 # 💫 About Me:
 <b>Welcome !! </b><br/>
@@ -17,6 +17,8 @@
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+<!--Graph-->
+![BarasaJnr github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BarasaJnr&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 <!--  -->
 ## Have a Smiley Day...😃 :<br>
