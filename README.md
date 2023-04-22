@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Nairobi,Kenya;I'm+a+Software+Engineer;I'm+Currently+studying+@alx_africa;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Nairobi,Kenya;I'm+a+not+the+Expert;I'm+the+Experimentor;Studying+@alx_africa;Welcome!)
 
 <b>Welcome !! </b><br/>
 - 🔭 I’m currently working on Software engineering.
@@ -7,7 +7,10 @@
 - 🤔 I’m looking for help with setting new connection with like-minded Software Devs.
 - 💬 Ask me about softwares. 
 - 📫 How to reach me: https://www.twitter.com/BurbridgeJnr
-- 😄 Pronouns: He/Him
+## :satellite: Connect with me
+[![linkedin](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/linkedin.png)][linkedin]
+[![twitter](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/twitter.png)][twitter]
+
 - ⚡ Fun fact: Curious about technology.
 
 
