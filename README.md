@@ -3,9 +3,9 @@
 <b>Welcome !! </b><br/>
 - 🔭 I’m currently working on Software engineering.
 - 🌱 I’m currently learning Software Engineering @alx_africa
-- 👯 I’m looking to collaborate on New strategies about software and data analytics. 
-- 🤔 I’m looking for help with setting new connection with like-minded Software Devs.
-- 💬 Ask me about softwares. 
+- 👯 I’m looking to collaborate on New strategies for web development using PHP. 
+- 🤔 I’m seeking help setting up new connections with like-minded Software Devs.
+- 💬 Ask me about software. 
 - 📫 How to reach me: https://www.twitter.com/BurbridgeJnr
 - ⚡ Fun fact: Curious about technology.
 
