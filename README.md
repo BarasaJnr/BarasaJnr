@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Nairobi,Kenya;I'm+a+not+the+Expert;I'm+the+Experimentor;Studying+@alx_africa;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Nairobi,Kenya;I'm+a+not+the+Expert;I'm+the+Experimentor!...)
 
 <b>Welcome !! </b><br/>
-- 🔭 I’m currently working on Software engineering.
-- 🌱 I’m currently learning Software Engineering @alx_africa
+
+- 🌱 I’m currently learning Software Engineering 
 - 👯 I’m looking to collaborate on New strategies for web development using PHP. 
 - 🤔 I’m seeking help setting up new connections with like-minded Software Devs.
 - 💬 Ask me about software. 
