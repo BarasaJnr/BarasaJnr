@@ -16,6 +16,6 @@ JavaScript User.<br>Facts: Relenty curious about Tech.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Isaac&label=Profile%20Views&icon=3&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BarasaJnr&label=Views&color=7&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
